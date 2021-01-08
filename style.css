@@ -3,8 +3,10 @@ h1 {
   text-align: center;
   font-family: cursive;
 }
-.important {
+.important p {
   color: rgb(182, 194, 13);
+  padding: 10px;
+  margin: 12px;
 }
 
 h2 {
@@ -40,8 +42,17 @@ ul {
   font-family: Georgia;
 }
 
-.projects {
+p1 {
+  text-align: center;
+  font-family: Georgia;
+  font-style: italic;
+  font-size: 20px;
+  background-position: center;
+}
+
+.projects p1 {
   border: 5px black;
+  background-color: rgb(170, 170, 245);
   padding: 10px;
   margin: 12px;
 }
