@@ -29,9 +29,21 @@ p {
   margin: 25px;
 }
 
+.history {
+  border: 5px black;
+  padding: 10px;
+  margin: 12px;
+}
+
 ul {
   text-align: left;
   font-family: Georgia;
+}
+
+.projects {
+  border: 5px black;
+  padding: 10px;
+  margin: 12px;
 }
 
 ol {
