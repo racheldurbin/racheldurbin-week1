@@ -1,0 +1,69 @@
+h1 {
+  color: rgb(212, 83, 8);
+  text-align: center;
+  font-family: cursive;
+}
+.important p {
+  color: rgb(182, 194, 13);
+  padding: 10px;
+  margin: 12px;
+}
+
+span {
+  color: rgb(201, 96, 26);
+}
+
+h2 {
+  color: rgb(109, 109, 14);
+  text-align: center;
+  font-family: Georgia;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: auto;
+  width: 300px;
+  height: 300px;
+  padding: 12px;
+}
+
+p {
+  text-align: center;
+  font-family: Georgia;
+  margin: 25px;
+}
+
+.history {
+  border: solid black;
+  background-color: rgb(231, 204, 168);
+  padding: 10px;
+  margin: 12px;
+}
+
+ul {
+  text-align: left;
+  font-family: Georgia;
+}
+
+p1 {
+  text-align: center;
+  font-family: Georgia;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.projects {
+  text-align: center;
+  font-family: Georgia;
+  border: solid black;
+  background-color: rgba(82, 76, 76, 0.5);
+  padding: 10px;
+  margin: 12px;
+}
+
+ol {
+  text-align: left;
+  font-family: Georgia;
+}

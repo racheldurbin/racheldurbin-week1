@@ -1,4 +1,4 @@
-# racheldurbin-week1
+racheldurbin-week1
 
 Webpage about me and my first week at Epicodus.
 
